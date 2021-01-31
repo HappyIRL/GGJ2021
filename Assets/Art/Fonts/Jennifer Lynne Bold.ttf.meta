@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a32a9efaf15e6994ebb3e48d02a05c8b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Jennifer Lynne
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5231fd8d922d5054d841aeacdff67697, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
